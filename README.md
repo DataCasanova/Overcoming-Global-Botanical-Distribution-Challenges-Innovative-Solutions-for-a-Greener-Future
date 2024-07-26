@@ -9,7 +9,7 @@ Overcoming Global Botanical Distribution Challenges: Innovative Solutions for a 
 
 **Global Green Distributors is a premier supplier dedicated to providing a diverse range of high-quality botanical products to customers worldwide**. **Our commitment to excellence and sustainability has positioned us as a trusted partner in the horticultural industry**. **We connect nature enthusiasts, landscapers, and horticulturalists with plants that enhance the beauty of green spaces, promote environmental sustainability, and support biodiversity**.
 
-Now that they’ve hired a new data team and are strategizing their transactional pipeline for the year, the company would like to build more understanding of the effectiveness of each countries on the Revenue generated and ROI  and how they relate to Sale and Quantity product patient claims. 
+Now that they’ve hired a new data team and are strategizing their transactional pipeline for the year, the company would like to build more understanding of the effectiveness of each countries on the Revenue generated and ROI  and how they relate to Sale and Quantity of product . 
 The Dashboard is  to drive two primary objectives: 1) to condensed,dynamic performace to utilize switch measure and conditional formating, and 2) to find an innovative solution to overcome global distribution challenges.
 
 ## Dataset Structure
