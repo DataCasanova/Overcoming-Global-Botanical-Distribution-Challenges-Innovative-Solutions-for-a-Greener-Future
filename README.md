@@ -63,7 +63,7 @@ The dataset consisted of three tables, including information about Fact , Transa
 - Solution: Establish a dedicated compliance team to stay updated with international regulations and ensure that all shipments meet the necessary legal requirements.
 
 ## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+The dashboard can be found in Power BI  [here](https://app.powerbi.com/view?r=eyJrIjoiODVmMWY5NWMtZTA5NC00ZDA2LTg1ZTEtODY5NjM1ZjJkYzhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9). This dashboard enables manager and the stakeholders to filter by Sale,Quantity,Gross Profit, Product Type, and Country, and focuses on trends and values in Product metrics, Sales metrics, and Quantity metrics.
 
 
 
