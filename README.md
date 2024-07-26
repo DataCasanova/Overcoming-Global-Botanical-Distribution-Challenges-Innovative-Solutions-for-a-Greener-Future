@@ -13,7 +13,7 @@ Now that they’ve hired a new data team and are strategizing their transactiona
 The Dashboard is  to drive two primary objectives: 1) to condensed,dynamic performace to utilize switch measure and conditional formating, and 2) to find an innovative solution to overcome global distribution challenges.
 
 ## Dataset Structure
-The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
+The dataset consisted of three tables, including information about Fact , Transaction and Account, as well as claims filed by product and related claim information.
 
 <img width="612" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/c51a152c-796c-4e64-82b4-db3141a88e0c">
 
