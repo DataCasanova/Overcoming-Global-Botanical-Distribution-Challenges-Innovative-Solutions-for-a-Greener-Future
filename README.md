@@ -37,56 +37,35 @@ The dataset consisted of three tables, including information about Fact , Transa
                  Profit Analysis                                                        Quantity Analysis    
 
 
-<h2><br/><a href="https://app.powerbi.com/view?r=eyJrIjoiODVmMWY5NWMtZTA5NC00ZDA2LTg1ZTEtODY5NjM1ZjJkYzhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"> Power BI Dashboard Report Analysis of the Global Green Distributors(PLANT CO) Year to Year Performance here is a clickable Link to my Power Bi Dashboard. </a>
+### To find an innovative solution to overcome global distribution challenges here are practice i want the operation and distribution department to look into on how to improve sale and standard out from compatitor this was draft from frequently  question ask by customer .
 
-## To find an innovative solution to overcome global distribution challenges.
+### Logistical Complexities:
+- Problem: Distributing botanical products globally involves complex logistics, including handling perishable goods, ensuring timely delivery, and navigating international regulations.
+- Solution: Implement advanced supply chain management systems, partner with reliable logistics providers, and maintain robust compliance with international regulations to streamline 
+  operations.
+  
+### Maintaining Plant Health:
+- Problem: Ensuring that plants remain healthy and viable during transportation is a significant challenge.
+- Solution: Invest in state-of-the-art packaging and transportation methods that regulate temperature and humidity, and develop partnerships with horticultural experts to continually 
+  improve plant care techniques.
 
-- Logistical Complexities:
-Problem: Distributing botanical products globally involves complex logistics, including handling perishable goods, ensuring timely delivery, and navigating international regulations.
+### Sustainability Concerns:
+- Problem: Balancing the demand for botanical products with the need to protect natural resources and ecosystems can be challenging.
+- Solution: Adopt sustainable sourcing practices, support and collaborate with eco-friendly growers, and invest in research for sustainable horticultural practices.
 
-- Maintaining Plant Health:
-Problem: Ensuring that plants remain healthy and viable during transportation is a significant challenge.
+### Market Competition:
+- Problem: The horticultural industry is highly competitive, with numerous players vying for market share.
+- Solution: Differentiate through exceptional product quality, innovative offerings, and superior customer service. Build strong relationships with customers and partners to foster 
+  loyalty and trust.
 
-- Sustainability Concerns:
-Problem: Balancing the demand for botanical products with the need to protect natural resources and ecosystems can be challenging.
-
-- Market Competition:
-Problem: The horticultural industry is highly competitive, with numerous players vying for market share.
-
-- Regulatory Compliance:
-Problem: Navigating the varying agricultural and import regulations across different countries can be complex.
-
-
-#### Signup Rate
-- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
-- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
-- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
-
-#### Click through Rate
-- Across categories, Health for All and Benefit Updates performed nearly 3-4x better than the average CTR at 36% and 22%, respectively. 
-- Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
-- Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
-
-#### Cost per Signup
-- Across campaign categories, Golden Years Security had by far the highest cost per signup ($124), as well as the lowest number of signups (23), compared to an average of $2.2.
-- Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
-- Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
-
-## Recommendations
-- **Health for All**: Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
-- **Health Awareness**: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
-- **COVID Campaigns**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
-- **#HealthyLiving**: Decrease investment in this campaign category, which has the highest spend ($46K) but mediocre signup rates compared to Health for All campaigns.
+### Regulatory Compliance:
+- Problem: Navigating the varying agricultural and import regulations across different countries can be complex.
+- Solution: Establish a dedicated compliance team to stay updated with international regulations and ensure that all shipments meet the necessary legal requirements.
 
 ## Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/86756aa4-a0d8-44eb-a0d5-c128816f42ac">
 
-## Presentation Sample
-The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1dvnGsNz3-HGzlj6jgltQ8Ly1p01WQUWZ/edit#slide=id.p14). Some extracts are presented below for easy viewing.
 
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/ee52d0f8-1552-4a35-ba04-a65634560f2d">
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/5c964664-41ee-4773-bec8-cbe3bab3063a">
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/30a06221-ddbd-4447-aadd-287c622b5a2f">
-
+![](Capture55.JPG)         
+Dashboard Analysis           
