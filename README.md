@@ -68,4 +68,13 @@ The dashboard can be found in Power BI  [here](https://app.powerbi.com/view?r=ey
 
 
 ![](Capture55.JPG)         
-Dashboard Analysis           
+Dashboard Analysis 
+<div>
+    <a href="https://www.loom.com/share/b116b5ae9bf348c79e35f158ef0ee137">
+      <p>Microsoft Power BI - Peport Visualization - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b116b5ae9bf348c79e35f158ef0ee137">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b116b5ae9bf348c79e35f158ef0ee137-10b716b8ae9358c4-full-play.gif">
+    </a>
+  </div>
+
